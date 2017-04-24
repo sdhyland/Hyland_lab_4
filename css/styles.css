@@ -2,17 +2,62 @@
 /* CSS Document */
 
 body {
-	margin: 0;
+	margin: 10px;
+}
+h1 {
+	color: red;
+	
+}
+hr {
+	margin-top: -30px;
+	color: black;
+}
+#color {
+	margin-bottom: 0px;
+	width: 850px;
+	background-color: black;
+	float: left;
 }
 	
-#color {
+#color img {
+	float: left;
+	width: 500px;
+	margin-left: -10px;
+	margin-bottom: -3px;
 	
-	width:
-	height:
-	background:
-	
-	
-	
-	
-	
+}
+#color h2 {
+	color: white;
+		margin-top: 375px;
+		margin-right: 10px;
+		 
+		
+	}
+
+#adobe {
+	float: right;
+	width: 300px;
+	height: auto;
+	margin-right: 40px;
+
+	margin-top: -40px;	
+
+}
+#text {
+	width: 360px;
+}
+.number {
+	clear: both;
+	padding-top: 50px;
+}
+.number p{
+	font-size: 30px;
+	color: grey;
+	text-align:center;
+}
+hr {
+	margin-right: 50px;
+}
+h3{
+	margin-left: 20px;	
 }
